@@ -2,6 +2,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnyshut&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyshut&hide=TeX&layout=compact)
 
+![1C Enterprise](https://img.shields.io/badge/-1C%20Enterprise-yellow)
+
 <!--
 **johnnyshut/johnnyshut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
