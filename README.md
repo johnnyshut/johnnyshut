@@ -11,6 +11,10 @@ I'm Ivan Carlo, a lead developer, a self-proclaimed bearer of knowledge, special
 
 Want to know more? See public repositories. You can also find me on [Infostart](https://infostart.ru/) under the nickname [johnnyshut23](https://infostart.ru/profile/534321/)
 
+![](https://vistr.dev/badge?repo=johnnyshut.johnnyshut&corners=square)
+[![](https://img.shields.io/badge/-@johnnyshut-%23181717?style=flat-square&logo=github)](https://github.com/johnnyshut)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=aksioma.dev&url=https%3A%2F%aksioma.dev)](https://aksioma.dev)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnnyshut&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/johnnyshut)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyshut&count_private=true&hide=css&layout=compact&theme=tokyonight)](https://github.com/johnnyshut)
 
